@@ -1,0 +1,38 @@
+baseURL = "https://blog.7bits.xyz"
+languageCode = "es-mx"
+title = "Blog 7bits"
+theme = "mediumish-gohugo-theme"
+copyright = "Luis Santiago - All rights reserved 2020"
+summaryLength = 25
+
+[params]
+  logo = "/images/icon.png"
+  description = "El blog de Luis"
+
+[params.author]
+  name = "Luis Santiago"
+  description = "El creador de este blog"
+
+[params.index]
+  picture = "/images/author.png"
+  title = "Luis Santiago"
+  subtitle = "Cuando te toca te toca"
+  mdtext = '''Blog sobre cosas e ideas random'''
+  alertbar = true
+
+[params.social]
+  github = "https://github.com/zzhik"
+  linkedin = "https://www.linkedin.com/in/zzhik/"
+  twitter = "@josluis"
+
+## Main Menu
+[[menu.main]]
+    name = "Blog"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
