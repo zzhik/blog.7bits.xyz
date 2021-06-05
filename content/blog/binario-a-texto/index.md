@@ -1,8 +1,8 @@
 ---
 title: "Convertir una cadena de texto en formato binario a texto legible"
 date: 2021-05-15T12:47:18-05:00
-publishdate: 2018-10-07T11:17:14+02:00
-lastmod: 2018-10-08T18:55:29+02:00
+publishdate: 2021-05-15T12:47:18-05:00
+lastmod: 2021-05-15T12:47:18-05:00
 tags: ["python"]
 type: "post"
 comments: false

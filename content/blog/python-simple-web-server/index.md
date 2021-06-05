@@ -1,9 +1,9 @@
----
+content/blog/python-simple-web-server/index.md---
 title: "Tip: Un sencillo servidor web python para compartir archivos"
 date: 2021-05-09T23:09:53-05:00
 draft: true
-publishdate: 2018-10-07T11:17:14+02:00
-lastmod: 2018-10-08T18:55:29+02:00
+publishdate: 2021-05-09T23:09:53-05:00
+lastmod: 2021-05-09T23:09:53-05:00
 tags: ["python", "tip"]
 type: "post"
 comments: false
