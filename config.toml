@@ -30,9 +30,9 @@ summaryLength = 25
     name = "Blog"
     weight = 100
     identifier = "blog"
-    url = "/blog"
+    url = "/blog/"
 [[menu.main]]
-    name = "About Me"
+    name = "Yo"
     identifier = "about"
     weight = 200
     url = "/"
