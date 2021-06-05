@@ -1,4 +1,4 @@
-content/blog/python-simple-web-server/index.md---
+---
 title: "Tip: Un sencillo servidor web python para compartir archivos"
 date: 2021-05-09T23:09:53-05:00
 draft: true
