@@ -17,15 +17,15 @@ Esta tarea es sumamente sencilla, simplemente inicio el servidor web en el direc
 Aquí la instrucción para ejecutar el servidor web en python2:
 
 {{<highlight bash "linenos=table,linenostart=1">}}
-$ python -m SimpleHTTPServer .
+$ python -m SimpleHTTPServer 8080
 {{</highlight>}}
 
 Equivalente en python 3:
 
 {{<highlight bash "linenos=table,linenostart=1">}}
-$ python -m http.server .
+$ python -m http.server 8080
 {{</highlight>}}
 
-El servidor escuchará de manera predeterminada en el puerto 8000 a menos que se indique otra cosa.
+El servidor escuchará de manera predeterminada en el puerto 8000 a menos que se indique otra cosa, en nuestro caso lo dejamos escuchando en el puerto 8080.
 
 No está demás mencionar que esto es algo que se debe hacer solo en casos puntuales y tan pronto como se comparte el archivo simplemente finalizar el servidor web con `CTRL+C`, de otra manera el contenido del sistema de archivos quedaría expuesto para que cualquiera que estuviera en la red pudiera descargar cualquier archivo.
